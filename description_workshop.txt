@@ -1,0 +1,15 @@
+[h1]The Arsenal[/h1]
+
+This is your very own arsenal, get youserlf confortable, and enjoy. 
+This mod adds: 
+[*]2 handguns
+[*]2 submachineguns
+[*]1 assault rifle
+[*]1 shotgun
+[*]1 minigun
+[*]2 types of bullets
+
+Now ported to 1.4.4.9!
+
+Version 0.2:
+[*]Fixed damage types

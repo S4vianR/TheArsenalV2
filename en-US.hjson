@@ -1,0 +1,58 @@
+Mods: {
+	TheArsenalV2: {
+		Items: {
+			Ammo: {
+				WoodBullet: {
+					DisplayName: Wood Bullet
+					Tooltip: ""
+				}
+
+				IceBullet: {
+					Tooltip: ""
+					DisplayName: Ice Bullet
+				}
+			}
+
+			Weapons: {
+				Ranged: {
+					Minigun: {
+						Tooltip: ""
+						DisplayName: Minigun
+					}
+
+					GoldenSMG: {
+						Tooltip: ""
+						DisplayName: Golden S M G
+					}
+
+					GoldenShotgun: {
+						Tooltip: ""
+						DisplayName: Golden Shotgun
+					}
+
+					GoldenDesertEagle: {
+						Tooltip: ""
+						DisplayName: Golden Desert Eagle
+					}
+
+					ColtM1911: {
+						Tooltip: ""
+						DisplayName: Colt M1911
+					}
+
+					Ak74: {
+						Tooltip: ""
+						DisplayName: Ak74
+					}
+
+					Ak47: {
+						Tooltip: ""
+						DisplayName: Ak47
+					}
+				}
+			}
+		}
+
+		Projectiles.Ranged.IceBulletMain.DisplayName: Ice Bullet Main
+	}
+}
