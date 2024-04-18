@@ -31,24 +31,26 @@
     ]
   },
   "packageFolders": {
-    "/home/reuben/.nuget/packages/": {}
+    "C:\\Users\\reube\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/reuben/.local/share/Terraria/tModLoader/ModSources/TheArsenalV2/TheArsenalV2.csproj",
+      "projectUniqueName": "C:\\Users\\reube\\Code\\TheArsenalV2\\TheArsenalV2.csproj",
       "projectName": "TheArsenalV2",
-      "projectPath": "/home/reuben/.local/share/Terraria/tModLoader/ModSources/TheArsenalV2/TheArsenalV2.csproj",
-      "packagesPath": "/home/reuben/.nuget/packages/",
-      "outputPath": "/home/reuben/.local/share/Terraria/tModLoader/ModSources/TheArsenalV2/obj/",
+      "projectPath": "C:\\Users\\reube\\Code\\TheArsenalV2\\TheArsenalV2.csproj",
+      "packagesPath": "C:\\Users\\reube\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\reube\\Code\\TheArsenalV2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/reuben/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\reube\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -78,22 +80,17 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.29, 6.0.29]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.129/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

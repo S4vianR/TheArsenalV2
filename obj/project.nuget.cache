@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ar6rvOv8nv2lgJNd3hUD+iz0rr2O2me9i1aigKeVG3t+KCXdZVYh2qQe2NSuAvfKhWRj5blwRvew25T+Y7MkyA==",
+  "dgSpecHash": "InjaUvDbD7A9yR2XBotRS3Ie1sxi9OafzmNfSjbV9fSJGlVpSng1plX7nitc703QJk+t48WPTaKvr46D2RsMgg==",
   "success": true,
-  "projectFilePath": "/home/reuben/.local/share/Terraria/tModLoader/ModSources/TheArsenalV2/TheArsenalV2.csproj",
+  "projectFilePath": "C:\\Users\\reube\\Code\\TheArsenalV2\\TheArsenalV2.csproj",
   "expectedPackageFiles": [
-    "/home/reuben/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512",
-    "/home/reuben/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+    "C:\\Users\\reube\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
   ],
   "logs": []
 }

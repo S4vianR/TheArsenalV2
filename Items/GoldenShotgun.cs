@@ -25,7 +25,7 @@ namespace TheArsenalV2.Items
             Item.knockBack = 6;
             Item.useAmmo = AmmoID.Bullet;
             Item.shoot = ProjectileID.Bullet;
-            Item.shootSpeed = 15f;
+            Item.shootSpeed = 5f;
             Item.DamageType = DamageClass.Ranged;
         }
 
